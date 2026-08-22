@@ -3,4 +3,4 @@ Repositório com estudos realizados para melhor aproveitamento para faculdade de
 
 ## Indice:
 
-[Aula 1]([Programação.md](https://github.com/EbonyWizard4/Preparat-rio-Para-ADS/blob/main/1.1%20-%20Programa%C3%A7%C3%A3o.md))
+[Aula 1](https://github.com/EbonyWizard4/Preparat-rio-Para-ADS/blob/main/1.1%20-%20Programa%C3%A7%C3%A3o.md)
