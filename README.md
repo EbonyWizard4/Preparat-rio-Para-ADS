@@ -1,5 +1,6 @@
 # Preparat-rio-Para-ADS
-Repositório com estudos realizados para melhor aproveitamento para faculdade de ADS
+Repositório com estudos realizados para melhor aproveitamento ao cursar a faculdade de ADS
+Plano de estudo utilizado no endereço: [Plano de estudo](https://plano-de-aula-eight.vercel.app)
 
 ## Indice:
 
