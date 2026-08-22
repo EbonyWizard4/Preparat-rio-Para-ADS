@@ -3,4 +3,4 @@ Repositório com estudos realizados para melhor aproveitamento para faculdade de
 
 ## Indice:
 
-[Aula 1](./Programação.md)
+[Aula 1](Programação.md)
